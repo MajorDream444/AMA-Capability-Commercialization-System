@@ -20,7 +20,7 @@ Unresolved questions requiring Major or Zach. Mirrors the new decisions in `deci
 
 ## Requiring Major (operational / repo)
 
-- **D10 — Repo write access.** Both repositories exist and are readable. Cowork's environment currently has **no authenticated write access** (public read succeeds; push fails — no credentials, no `gh`, no token). To let Cowork create the branch and PR directly, provide an authenticated path (e.g., a GitHub connector with write scope, or a token/credential method). Until then, PR #1 is delivered as an applyable patch/bundle. This is an **authentication** limitation, not a repository-existence issue.
+- **D10 — Repo write access. RESOLVED.** The GitHub connector is authenticated; branch `docs/governance-foundation-v1` was pushed and PR #1 opened against `main`. (Note: Cowork's own sandbox still cannot push directly — the push was performed through the authenticated connector/local apply. Direct Cowork push would require a connector that exposes GitHub write actions in-session.)
 
 ## Open contradictions (see decision register Part 2)
 

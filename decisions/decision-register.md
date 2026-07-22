@@ -48,6 +48,6 @@ Records (1) the standing Current Decisions, (2) contradictions preserved across 
 | DR-7 | May the regulated case study be named/attributed commercially (client permission)? | Major + Zach | Open | 2026-07-21 |
 | DR-8 | What Enso benchmark artifacts can Zach produce now (methodology, configs, reproducibility)? | Zach | Open | 2026-07-21 |
 | DR-9 | Confirm Phase A is deliverable metadata-only; confirm shadow/replay simulation exists as tooling vs manual analysis | Zach | Open | 2026-07-21 |
-| DR-10 | Repo access — (a) exists (confirmed: both repos exist), (b) authenticated write access from Cowork environment, (c) branch + PR creation | Major | (a) confirmed; (b)/(c) open | 2026-07-21 |
+| DR-10 | Repo access — (a) both repos exist, (b) authenticated write access, (c) branch + PR creation | Major | **Resolved** — GitHub connector authenticated; branch `docs/governance-foundation-v1` pushed and PR #1 opened | 2026-07-21 |
 | DR-11 | Production-readiness gate on docs-only PRs — propose Tests/Observability = N/A-documentation with rationale; keep Data/PII | Major | Open | 2026-07-21 |
 | DR-12 | Hanzo Compendium supplied and reviewed | Major | **Resolved** | 2026-07-21 |
