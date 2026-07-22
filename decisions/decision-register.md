@@ -39,10 +39,10 @@ Records (1) the standing Current Decisions, (2) contradictions preserved across 
 
 | ID | Decision | Owner | Status | Date |
 |---|---|---|---|---|
-| DR-1 | Confirm canonical customer mix (proposed 40/160/300/500) | Major | Open | 2026-07-21 |
+| DR-1 | Canonical customer mix **40 / 160 / 300 / 500** (high-touch / assisted / channel / self-serve); a scale architecture, not a 90-day acquisition promise | Major | **Resolved 2026-07-22** | 2026-07-21 |
 | DR-2 | Agentic Company Launch: keep excluded from active portfolio despite Blueprint framing? | Major | Open | 2026-07-21 |
-| DR-3 | Two-contract pricing — **Phase A ≈ $12,000–$20,000; Phase B ≈ $8,000–$15,000** — as working hypotheses; not merged into a single band | Major | **Proposed — awaiting Major's confirmation** (not formally resolved until Major explicitly confirms) | 2026-07-21 |
-| DR-4 | Qualification spend floor ($10K vs $20K/mo AI+cloud) | Major | Open | 2026-07-21 |
+| DR-3 | Two-contract pricing — **Phase A $12,000–$20,000; Phase B $8,000–$15,000** — two separate contracts, never collapsed, never presented as guaranteed outcomes | Major | **Resolved 2026-07-22** | 2026-07-21 |
+| DR-4 | ICP qualification floor **$20,000/month** combined AI + cloud spend; below-floor prospects route to rabbit/self-serve or standardized offers; strategic exceptions require AMA approval | Major | **Resolved 2026-07-22** | 2026-07-21 |
 | DR-5 | Phase A carries **no** minimum-savings success threshold; any "identified savings ≥ X%" only as an internal qualification signal if Major later approves | Major | Default = none | 2026-07-21 |
 | DR-6 | Enso data-governance statement (does customer usage influence shared weights; opt-in/out; retention; tenant isolation) — required in writing before any Enso pilot is sold | Zach | Open — blocks Phase B | 2026-07-21 |
 | DR-7 | May the regulated case study be named/attributed commercially (client permission)? | Major + Zach | Open | 2026-07-21 |
