@@ -2,6 +2,16 @@
 
 All notable changes to the AMA Capability Commercialization System are recorded here. Format loosely follows Keep a Changelog. This repository is documentation-first; entries describe knowledge and governance changes, not software releases.
 
+## [Unreleased] — branch `docs/commercialization-strategy-v1` (PR #2)
+
+### Added — Commercialization strategy, part 1 (doctrine + positioning)
+- `docs/commercialization-doctrine-v1.md` — rabbit-first doctrine; the "valuable even when the answer is no" north star; agency-trap avoidance; blended acquisition; claim discipline; human governance; sovereignty sold as deployment/control.
+- `docs/organizational-positioning.md` — AMA/Hanzo/Enso/Lux/Client roles; three market tiers; Enso "intelligent transmission" positioning; honest sovereignty framing; whale story held for later.
+
+### Notes
+- Decision-dependent documents (offer portfolio, ICP framework, customer cohorts) deferred to PR #3 pending DR-1 (mix), DR-3 (pricing), DR-4 (qualification floor). Escalation policy and 90-day plan follow with PR #3.
+- All claims remain governed by the merged `docs/claim-governance.md`; no barred claims used; contradictions preserved.
+
 ## [Unreleased] — branch `docs/governance-foundation-v1`
 
 ### Added — Governance foundation (PR #1)
