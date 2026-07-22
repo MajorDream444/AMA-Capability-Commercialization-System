@@ -2,6 +2,22 @@
 
 All notable changes to the AMA Capability Commercialization System are recorded here. Format loosely follows Keep a Changelog. This repository is documentation-first; entries describe knowledge and governance changes, not software releases.
 
+## [Unreleased] — branch `docs/offer-icp-cohort-v1` (PR #3)
+
+### Added — Commercialization strategy, part 2 (offers, ICP, cohorts, escalation, 90-day plan)
+- `docs/offer-portfolio.md` — active-4 portfolio, priority ranking, kill/delay list; two-contract flagship pricing (DR-3).
+- `docs/icp-framework.md` — ICPs 1–6, 0–100 qualification scorecard, $20K/mo floor (DR-4), anti-ICP and objections.
+- `docs/customer-cohort-definitions.md` — 40/160/300/500 scale architecture (DR-1) and per-cohort support economics.
+- `docs/zach-escalation-policy.md` — default-no escalation; the four all-must-hold criteria; productization signal.
+- `docs/90-day-validation-plan.md` — days 1–30 lockdown / 31–60 flagship launch / 61–90 standardize; validates the machine, not a headcount.
+
+### Changed
+- `decisions/decision-register.md` — DR-1, DR-3, DR-4 marked **Resolved 2026-07-22**.
+
+### Notes
+- Depends on PR #2 (doctrine + positioning) for cross-references; merge PR #2 before PR #3.
+- No barred claims; pricing shown as bands/hypotheses, never guarantees; case-study naming still gated on DR-7; Enso pilot still blocked on DR-6.
+
 ## [Unreleased] — branch `docs/governance-foundation-v1`
 
 ### Added — Governance foundation (PR #1)
