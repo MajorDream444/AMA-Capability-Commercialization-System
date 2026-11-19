@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2FAMA-Capability-Commercialization-System)
+
 # AMA Capability Commercialization System
 
 Operating knowledge for how **AMA Solutions** commercializes the **Hanzo** sovereign operating system, the **Enso** intelligence-selection layer, and the wider **Lux** ecosystem. This repository is a **documentation foundation first** — a reviewable body of doctrine, positioning, claim governance, and decisions. Automation comes only after the documentation is approved.
